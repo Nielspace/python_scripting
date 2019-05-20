@@ -1,2 +1,2 @@
 # python_scripting
-Trying to python script to automate the process
+Trying to use python scripting to automate the some of the manual and tedious process.
